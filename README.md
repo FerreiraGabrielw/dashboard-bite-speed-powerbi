@@ -21,6 +21,7 @@ Este dashboard, desenvolvido para a empresa BiteSpeed, oferece uma visão consol
 
 * `data/`: Bases de dados (XLS/CSV) utilizadas.
 * `powerbi/`: Arquivo `.pbix` do dashboard Power BI.
+* `quarto/`: Arquivo .qmd e sua versão HTML renderizada.
 * `figma/`: Arquivos relacionados ao protótipo e design no Figma.
 * `README.md`: Este documento.
 * `LICENSE`: Licença do projeto (MIT License).
