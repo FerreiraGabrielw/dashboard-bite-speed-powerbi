@@ -1,7 +1,6 @@
 # Projeto: Dashboard BiteSpeed - Análise de Performance Operacional e de Vendas
 
 ![Thumbnail do Dashboard](Quarto/capa.png)
-_Coloque aqui uma screenshot pequena e impactante do seu dashboard._
 
 ### ➡️ Análise Detalhada e Dashboard Interativo no Meu Portfólio:
 [Acesse a página completa do projeto aqui](https://ferreiragabrielw.github.io/portfolio-gabriel/projetos/Dashboards/3DashboardBiteSpeed/Projeto3DA.html)
