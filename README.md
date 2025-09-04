@@ -1,38 +1,38 @@
-# Projeto: Dashboard BiteSpeed - Análise de Performance Operacional e de Vendas
+# Project: BiteSpeed Dashboard - Operational and Sales Performance Analysis
 
-![Thumbnail do Dashboard](Quarto/capa.png)
+![Dashboard Thumbnail](Quarto/capa.png)
 
-### ➡️ Análise Detalhada e Dashboard Interativo no Meu Portfólio:
-[Acesse a página completa do projeto aqui](https://ferreiragabrielw.github.io/portfolio-gabriel/projetos/Dashboards/3DashboardBiteSpeed/Projeto3DA.html)
-
----
-
-## Sobre o Projeto
-
-Este dashboard, desenvolvido para a empresa BiteSpeed, oferece uma visão consolidada e acionável sobre as **operações de vendas e o desempenho do serviço de atendimento ao cliente**. Ele permite o monitoramento de métricas chave de vendas, produção e, crucialmente, o tempo médio de atendimento em diferentes canais e regiões, visando a otimização de processos e a melhoria da experiência do cliente.
-
-## Tecnologias e Processo
-
-* **Ferramentas**: Power BI Desktop, Figma (prototipação e design), Microsoft Excel / CSV (fontes de dados).
-* **ETL**: Dados extraídos de `.xls` e `.csv`, transformados no Power Query (M) e modelados para análise consolidada.
-* **Insights Chave**: Performance financeira e operacional, desempenho regional, tempo de atendimento por canal/gênero/colaborador, vendas por produto e categoria, e insights demográficos do cliente.
-
-## Conteúdo do Repositório
-
-* `data/`: Bases de dados (XLS/CSV) utilizadas.
-* `powerbi/`: Arquivo `.pbix` do dashboard Power BI.
-* `quarto/`: Arquivo .qmd e sua versão HTML renderizada.
-* `figma/`: Arquivos relacionados ao protótipo e design no Figma.
-* `README.md`: Este documento.
-* `LICENSE`: Licença do projeto (MIT License).
-
-## Como Visualizar
-
-* **Online**: [Acesse o dashboard publicado no Power BI Service](https://app.powerbi.com/groups/me/reports/3fd60242-5e84-4e13-a6e4-8c12c5b021cc/ReportSection?experience=power-bi)
-* **Localmente**: Faça o download do arquivo `.pbix` na pasta `powerbi/` e abra-o com o Power BI Desktop.
+### ➡️ Detailed Analysis and Interactive Dashboard in My Portfolio:
+[Access the full project page here](https://ferreiragabrielw.github.io/portfolio-gabriel/projetos/Dashboards/3DashboardBiteSpeed/Projeto3DA.html)
 
 ---
 
-### Licença
+## About the Project
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+This dashboard, developed for the company BiteSpeed, offers a consolidated and actionable view of **sales operations and customer service performance**. It allows monitoring key sales and production metrics and, crucially, the average service time across different channels and regions, aiming to optimize processes and improve the customer experience.
+
+## Technologies and Process
+
+*   **Tools**: Power BI Desktop, Figma (prototyping and design), Microsoft Excel / CSV (data sources).
+*   **ETL**: Data extracted from `.xls` and `.csv` files, transformed in Power Query (M) and modeled for consolidated analysis.
+*   **Key Insights**: Financial and operational performance, regional performance, service time by channel/gender/employee, sales by product and category, and customer demographic insights.
+
+## Repository Content
+
+*   `data/`: Used database files (XLS/CSV).
+*   `powerbi/`: Power BI dashboard `.pbix` file.
+*   `quarto/`: `.qmd` file and its rendered HTML version.
+*   `figma/`: Files related to the prototype and design in Figma.
+*   `README.md`: This document.
+*   `LICENSE`: Project license (MIT License).
+
+## How to View
+
+*   **Online**: [Access the published dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/3fd60242-5e84-4e13-a6e4-8c12c5b021cc/ReportSection?experience=power-bi)
+*   **Locally**: Download the `.pbix` file from the `powerbi/` folder and open it with Power BI Desktop.
+
+---
+
+### License
+
+This project is licensed under the [MIT License](LICENSE).
