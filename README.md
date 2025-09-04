@@ -1,10 +1,6 @@
 # Project: BiteSpeed Dashboard - Operational and Sales Performance Analysis
 
-<<<<<<< HEAD
-![Thumbnail do Dashboard](Quarto/capa.png)
-=======
 ![Dashboard Thumbnail](Quarto/capa.png)
->>>>>>> cb4cd445a883132b88f96660171104abf9a605d7
 
 ### ➡️ Detailed Analysis and Interactive Dashboard in My Portfolio:
 [Access the full project page here](https://ferreiragabrielw.github.io/portfolio-gabriel/projetos/Dashboards/3DashboardBiteSpeed/Projeto3DA.html)
